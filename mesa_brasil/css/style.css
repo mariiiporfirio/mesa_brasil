@@ -1,0 +1,107 @@
+
+
+.cabecalho {
+    background-color: white;
+    margin: -12px;  
+    margin-bottom: -45px;
+    text-align:justify;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 60px;
+}
+
+.bebida {
+   text-decoration: none;
+   text-align: left;
+   padding: 250px;
+   color: hwb(219 3% 37% / 0.863);
+}
+
+.bebida_pg_entrada {
+    text-decoration: none;
+    text-align: left;
+    padding: 10px;
+    color: hwb(219 3% 37% / 0.863);
+}
+
+.entrada {
+    text-decoration: none;
+    color: hwb(219 3% 37% / 0.863);
+
+}
+
+.home {
+    text-decoration: none;
+    text-align: left;
+    padding: 250px;
+    color: hwb(219 3% 37% / 0.863);
+}
+
+.corpo {
+    background-color: hsla(28, 100%, 86%, 0.411);
+    margin: -8px;
+    border-right: 15px solid green;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:medium;
+}
+
+.corpo_bebida {
+    background-color: #03a9a3;
+    margin: 35px -8px;
+    border-right: 15px solid #6eb974;
+}
+
+.corpo_entrada {
+    background-color: black;
+    margin: 35px -8px;
+    border-right: 15px solid green;
+    color: white;
+}
+
+.texto_bebida_bloco  {  
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    padding: 55px 100px 100px 800px;
+    display: inline-block;
+}
+
+.texto_entrada_bloco {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    padding: 0px 100px 50px 800px;
+    display: inline-block;
+}
+
+.apresentacao {
+    padding: 0px 200px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+.texto {
+    padding: 0px 200px;
+}
+
+
+.rodape {
+    background-color: hsla(28, 100%, 86%, 0.411);
+    margin: -16px -8px;
+    padding: 3px 100px;
+    border-right: 15px solid green;
+    text-align: right;
+}
+
+.img_refri_caseiro {
+    width: 350px;
+    position: absolute;
+    top: 250px;
+    left: 150px;
+}
+
+.img_panqueca_colorida {
+    width: 550px;
+    position: absolute;
+    top: 330px;
+    left: 130px;
+}
+
+
